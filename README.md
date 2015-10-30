@@ -1,2 +1,2 @@
 # omarcom
-Marketing & Communications Management component for OFBiz
+Marketing & Communications Management component for Apache OFBiz™
